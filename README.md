@@ -1,5 +1,4 @@
-realtime-geolocation-demo
+ina : realtime geolocation with NodeJS
 =========================
 
-Realtime geolocation app build on Node.js with HTML5 Geolocation API, Socket.io and Leaflet maps library.
-Tutorial and how to start with it you can read at http://tympanus.net/codrops/2012/10/11/real-time-geolocation-service-with-node-js/
+ Ina is a realtime geolocation app build on Node.js with HTML5 Geolocation API, Socket.io and Leaflet maps library., this project is actually discontinued ...
